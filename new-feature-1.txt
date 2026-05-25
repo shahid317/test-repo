@@ -1,1 +1,2 @@
 This file part of new feature 1
+Added new line to existing file
